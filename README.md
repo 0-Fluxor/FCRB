@@ -1,7 +1,7 @@
 # FCRB
 Fluxor's Custom Radio Binds for CounterStrike 2. Be Respectful of others! Enjoy, have fun and be creative with your callouts!
 
-DOWNLOAD either FCRB.cfg.rar (archive) or individually the file FCRB.cfg as well as the folder named FCRB-CC.
+DOWNLOAD either FCRB.cfg.rar (archive) or alternatively the file FCRB.cfg as well as the folder named FCRB-CC with all of its content at https://github.com/0-Fluxor/FCRB.
 
 INSTALLATION
 
