@@ -1,6 +1,8 @@
 # FCRB
 Fluxor's Custom Radio Binds for CounterStrike 2. Be Respectful of others! Enjoy, have fun and be creative with your callouts!
 
+DOWNLOAD either FCRB.cfg.rar (archive) or individually the file FCRB.cfg as well as the folder named FCRB-CC.
+
 INSTALLATION
 
 >> Open the Steam desktop app and navigate to your Library tab then locate your CS2 game. 
