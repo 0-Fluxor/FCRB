@@ -21,7 +21,7 @@ UNINSTALL
 
 >> Simply delete the FCRB.cfg file as well as the FCRB-CC folder that has the associated files tags "CC-RC" and "CC-MC." Then go to the game's launch options "STEAM" > "LIBRARY" > RIGHTCLICK CS2 > PROPERTIES > under GENERAL field "LAUNCH OPTIONS" and remove +exec FCRB.cfg from the launch options. 
 
-**You can update your callouts live in game! I key binded F3 by default to load config file and console will display your changes!!**
+**You can update your callouts live in game! I key binded F3 by default to load the config file and console will display your changes!!**
 
 
  * DISCLAIMER * this configuration distribution is free. The distribution and its files inside come without any warranty, USE AT YOUR OWN RISK! By you using any or all of this package you become responsible for anything you do with it. Redistribute in accordance with "GNU General Public License." Online redistribution of this package is permited with proper accrediations to the contributor and developer either by reference in article or in text next to download listing. The pseudonym of the contributors can be found inside the configuration distribution README.TXT found in archive file tilted "Fluxor's Custom Radio Binds" (FCRB.RAR) or here in this Disclamier; "Fluxor" Configuration Developer & "PaxPlay" for identifying the Unicode Control Characters. When in doubt about legitimacy of the files you are downloading copy it out from www.GitHub.com  USE AT YOUR OWN RISK ALWAYS! Do not use any of the package's contents or functionalities to harrass harm threaten bully groups, people(s) or individuals.
